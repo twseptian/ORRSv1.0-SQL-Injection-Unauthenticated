@@ -1,5 +1,5 @@
 # Online Railway Reservation System 1.0 - 'id' SQL Injection (Unauthenticated)
-origininal link: https://www.exploit-db.com/exploits/50646
+original link: https://www.exploit-db.com/exploits/50646
 ```bash
 # Exploit Title: Online Railway Reservation System 1.0 - 'id' SQL Injection (Unauthenticated)
 # Date: 07/01/2022
